@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">homewvote</string>
+    <string name="minutes1">นาที</string>
+    <string name="hours1">ชั่วโมง</string>
+    <string name="day1">วัน</string>
+    <string name="cdted1">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="next123">ถัดไป</string>
+</resources>

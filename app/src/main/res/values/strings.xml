@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homewvote</string>
+    <string name="next123">NEXT</string>
+    <string name="cdted1">Count Down To Election Day</string>
+    <string name="day1">Day</string>
+    <string name="hours1">Hours</string>
+    <string name="minutes1">minutes</string>
+    <string name="seconds1">Seconds</string>
+</resources>
